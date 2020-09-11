@@ -17,4 +17,3 @@ Dataset has 66 samples.
 
 ## Logistic Regression
 
-##Conclusion
