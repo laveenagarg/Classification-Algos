@@ -16,3 +16,5 @@ Dataset has 66 samples.
 ## SVM
 
 ## Logistic Regression
+
+##Conclusion
