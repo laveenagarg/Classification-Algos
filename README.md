@@ -12,6 +12,7 @@ Dataset has 66 samples.
 ## K Nearest Neighbour
 
 ## K Means Clustering
+K means clustering is a unsupervised algorithm, no a classification algorithm, it can give us clusters of sample belonging to same group, but doesn't give any information regarding label of clusters.
 
 ## SVM
 
